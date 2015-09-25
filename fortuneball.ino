@@ -82,7 +82,7 @@ void blinkLedStrip(int tgtLevel, int tgtMax) {
  
   }
   FastLED.show();
-  Serial.println();
+//  Serial.println();
 }
 
 void read_crystal_ball_sensor() {
